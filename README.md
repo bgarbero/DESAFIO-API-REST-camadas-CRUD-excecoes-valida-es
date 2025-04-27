@@ -72,15 +72,7 @@ Projeto desenvolvido para o desafio de CRUD de clientes, proposto no módulo de 
 
 3. Execute a aplicação (`ClientcrudApplication`).
 
-4. Acesse o H2 Console:
-   ```
-   http://localhost:8080/h2-console
-   ```
-   - JDBC URL: `jdbc:h2:mem:testdb`
-   - Username: `sa`
-   - Password: (deixe em branco)
-
-5. Teste as rotas usando o Postman ou outro cliente REST.
+4. Teste as rotas usando o Postman ou outro cliente REST.
 
 ## Checklist de Testes
 

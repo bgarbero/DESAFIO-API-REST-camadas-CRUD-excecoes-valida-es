@@ -6,7 +6,7 @@ Projeto desenvolvido para o desafio de CRUD de clientes, proposto no módulo de 
 
 ## Tecnologias usadas
 
-- Java 17+
+- Java 21
 - Spring Boot
 - Spring Data JPA
 - Maven
